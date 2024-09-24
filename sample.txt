@@ -1,1 +1,2 @@
-Sample file
+Sample file.
+Changes parallel to another branch.
