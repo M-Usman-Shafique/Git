@@ -1,1 +1,1 @@
-Dark mode added.
+New Feature: Dark mode added.
