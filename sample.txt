@@ -1,2 +1,3 @@
 Sample file.
 Changes parallel to another branch.
+Changes to test stash command.
