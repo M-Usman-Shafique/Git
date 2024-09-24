@@ -1,0 +1,2 @@
+New Feature: Dark mode added.
+Few more testing changes.
